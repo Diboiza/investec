@@ -9,4 +9,4 @@ Feature: Sign Up for insights
 
   Examples:
   |name|surname|email|
-  |Bongani|Maphiri|test@investec.com|
+  |Bongani|Maphiri|test@investec.co.za|
